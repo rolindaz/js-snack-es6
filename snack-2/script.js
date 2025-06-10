@@ -72,4 +72,6 @@ for (let i = 0; i < footballTeams.length; i++) {
     newStats.push(newStatTeam);
 };
 
+// e stampiamo tutto in console
+
 console.table(newStats);
